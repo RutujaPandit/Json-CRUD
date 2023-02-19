@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "Rutuja Pandit",
+      "email": " rutujapandit0011@gmail.com",
+      "phone": "8830452***",
+      "active": "true",
+      "validation": ""
+    },
+    {
+      "id": 3,
+      "name": "Amruta",
+      "email": "amruta2610@gmail.com",
+      "phone": "9075558***",
+      "active": "true",
+      "validation": ""
+    },
+    {
+      "id": 4,
+      "name": "Omkar",
+      "email": "omkar007@gmail.com",
+      "phone": "9352689*****",
+      "active": "true",
+      "validation": ""
+    }
+  ]
+}
